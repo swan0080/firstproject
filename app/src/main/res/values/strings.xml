@@ -1,3 +1,4 @@
 <resources>
+    <string name="greeting"> Hello World</string>
     <string name="app_name">My first project</string>
 </resources>
